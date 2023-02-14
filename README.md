@@ -1,2 +1,2 @@
 # CA683_Group_Project
-"How to name your Github repository".
+"How to name your GitHub repository".
