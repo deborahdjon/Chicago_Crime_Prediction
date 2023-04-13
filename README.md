@@ -1,3 +1,6 @@
 # Chicago Crime Prediction
-Researchers regard crime as a social phenomenon that is influenced by several physical, social, and economic factors. Different types of crimes are said to have different motivations. Theft, for instance, is a crime that is based on opportunity, whereas murder is driven by emotion. In accordance with this, we examine how well a model can perform with only spatiotemporal information at hand when it comes to predicting a single crime. More specifically, we aim at predicting theft, as this is a crime that should be predictable using spatiotemporal information. We aim to answer the question: “How well can we predict theft using spatial and temporal features?”. To answer this question, we examine the effectiveness of support vector machines, linear regression, XGBoost, and random forest k-nearest neighbors, using different imbalance techniques and hyperparameters. 
-XGBoost showed the best results with an F1-score of 0.86.
+A study of how crime can be predicted in the city of Chicago using artificial intelligence. The following project entailed:
+
+- Performing a comparative analysis was performed using multiple models (KNN, Logistic Regression, Random Forest, Support Vector Machine, and XGBoost), all trained on a publicly available dataset hosted on https://catalog.data.gov/.
+
+- Writing a research paper to summarise all findings, as well as to document the analysis, data transformation, and modelling phases that led to said findings.
